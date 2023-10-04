@@ -1,0 +1,6 @@
+int main()
+{
+	/*Test 1*/
+	cout << "**************************************************************" << endl;
+	cout << "Test1: default constuctor" << endl;
+}
